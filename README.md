@@ -124,8 +124,8 @@ Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 ```
 
 ## OUTPUT:
-![WhatsApp Image 2025-05-04 at 21 20 52_19e67d60](https://github.com/user-attachments/assets/0f153128-5436-49e2-a6c7-deb8d70cbae3)
-
+![alt text](image.png)
+![alt text](image2.png)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
